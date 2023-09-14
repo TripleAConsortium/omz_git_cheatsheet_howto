@@ -230,7 +230,7 @@ HOWTO use git aliases with oh_my_zsh
 [Алиас](howto.md#gsh): `gsh` **Команда:** `git show`  
 [Алиас](howto.md#gsps): `gsps` **Команда:** `git show --pretty=short --show-signature`  
 
-все остальное
+все остальное  
 [Алиас](howto.md#g): `g` **Команда:** `git`  
 [Алиас](howto.md#gclean): `gclean` **Команда:** `git clean -id`  
 [Алиас](howto.md#gcount): `gcount` **Команда:** `git shortlog -sn`  
